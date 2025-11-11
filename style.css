@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  line-height: 1.6;
+  background: #fafafa;
+  color: #222;
+}
+
+/* Top Navigation */
+nav {
+  background: #333;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 12px;
+  font-size: 16px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  color: #111;
+}
+
+ul {
+  font-size: 18px;
+}
